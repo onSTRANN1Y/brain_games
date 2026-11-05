@@ -37,7 +37,7 @@ Clone the project repository to your computer:
 
 Navigate to the cloned repository:
 
-```cd python-project-49```
+```cd brain_games```
 
 ## Step 3: Install Dependencies
 
